@@ -21,7 +21,7 @@ baseurl: "/WISDOM"  # the subpath of your site, e.g. /blog
 url: "https://timothyadavis.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Timothy A. Davis
-  twitter: timdavisastro
+#  twitter: timdavisastro
   picture: /assets/images/johndoe.png
 twitter_username: timdavisastro
 github_username: TimothyADavis

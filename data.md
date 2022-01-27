@@ -1,7 +1,7 @@
 ---
 title: Data
 layout: default
-image: /assets/images/WISDOMbanner.png
+image: /assets/images/WISDOMbanner_thin.png
 permalink: /data/
 ---
 {% include page-intro.html %}  
