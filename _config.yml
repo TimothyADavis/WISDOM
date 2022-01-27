@@ -75,6 +75,9 @@ collections:
   teamafil:
     output: true
     permalink: /:collection/:path/	
+  teamalums:
+    output: true
+    permalink: /:collection/:path/	
 
 # Front Matter Defaults
 defaults:
@@ -84,7 +87,7 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: true
+      read_time: False
   # _team
   - scope:
       path: "_team"
@@ -98,4 +101,11 @@ defaults:
       type: teamafil
     values:
       layout: post
-      read_time: false	 	   
+      read_time: false	
+  # _teamalums
+  - scope:
+      path: "_teamalums"
+      type: teamalums
+    values:
+      layout: post
+      read_time: false

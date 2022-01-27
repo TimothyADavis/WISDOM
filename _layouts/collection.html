@@ -14,3 +14,8 @@ layout: page
   {% include documents-collection.html collection='teamafil' sort_by=page.sort_by sort_order=page.sort_order %}
 </div>
 
+<font size=6><b>Team Alumni&#58;</b></font><p>
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {% include documents-collection.html collection='teamalums' sort_by=page.sort_by sort_order=page.sort_order %}
+</div>

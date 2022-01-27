@@ -6,4 +6,4 @@ taxonomy: Paper
 image: /assets/images/WISDOMbanner_thin.png
 ---
 
-Sample post listing for the tag `markup`.
+Below are listed both WISDOM "numeral" papers, and associated manuscripts. Click for more information. 
