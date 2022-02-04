@@ -6,6 +6,7 @@ vendor
 
 # General
 .DS_Store
+.ds_store
 .AppleDouble
 .LSOverride
 
