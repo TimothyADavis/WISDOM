@@ -13,6 +13,6 @@ excerpt_separator: "<!--more-->"
 <i>Role in WISDOM:</i> Federico is an expert in galaxy dynamics (rotation curves, mass models, dark matter, non-circular motions) especially for late-type galaxies. He is particularly interested in galaxy scaling relations, including the renowned SMBH mass - stellar mass relation.
 <br><br>
 <i>Contact:</i> federico.lelli -at- inaf.it<br>
-<i>Personal Website:</i> <a href='www.lellifederico.com'>www.lellifederico.com</a>
+<i>Personal Website:</i> <a href='https://www.lellifederico.com/'>www.lellifederico.com</a>
 
 <a href="{{ site.url }}{{ site.baseurl }}/team/">(Back to Team)</a>
