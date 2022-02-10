@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 </figure>
 
 <b>WISDOM AFFILIATE</b><br>
-<i>Current Position:</i> Assistant Professor, Department of Physics, McGill University<br>
+<i>Current Position:</i> Associate Professor, Department of Physics, McGill University<br>
 <!--more-->
 <br>
 <i>Role in WISDOM:</i> Daryl supervises PhD students Hope Boyce and Anan Lu, who are working on WISDOM science. They are an Associate Professor of Physics at McGill University in the McGill Space Institute and hold a Canada Research Chair in Multi-messenger Astrophysics. They study the Galactic center and Sgr A*, electromagnetic counterparts to gravitational wave sources, accreting compact objects, and supermassive black holes and their host galaxies, using multi-wavelength and time domain surveys. 
