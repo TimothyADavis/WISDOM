@@ -1,5 +1,5 @@
 ---
-title: "&#8203;Michele Cappellari"
+title: "Michele Cappellari"
 excerpt_separator: "<!--more-->"
 ---
 <figure style="width: 150px" class="align-left"><a href="{{ site.baseurl }}{{page.url}}">
