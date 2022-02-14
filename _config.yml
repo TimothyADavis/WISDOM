@@ -78,6 +78,9 @@ collections:
   teamalums:
     output: true
     permalink: /:collection/:path/	
+  codes:
+    output: true
+    permalink: /:collection/:path/		
 
 # Front Matter Defaults
 defaults:
@@ -109,3 +112,10 @@ defaults:
     values:
       layout: post
       read_time: false
+  # _codes
+  - scope:
+      path: "_codes"
+      type: codes
+    values:
+      layout: post
+      read_time: False	  

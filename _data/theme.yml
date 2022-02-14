@@ -47,5 +47,6 @@ google_fonts:
 navigation_pages:
   - team.md	
   - papers.md
-  - posts.md
+  - codes.md
   - data.md
+  - posts.md
