@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/LijieLiu.jpeg" alt=""></a>
 </figure>
 <br>
-<b>WISDOM member</b><br>
+<b>WISDOM MEMBER</b><br>
 <i>Current Position:</i> Cosmic DAWN fellow, DTU space, Technical University of Denmark<br>
 <!--more-->
 <br>

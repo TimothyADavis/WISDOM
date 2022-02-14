@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/MicheleCappellari.jpeg" alt=""></a>
 </figure>
 
-<b>WISDOM Member</b><br>
+<b>WISDOM MEMBER</b><br>
 <i>Current Position:</i> Professor of Astrophysics, Sub-department of Astrophysics, University of Oxford<br>
 <!--more-->
 <br>

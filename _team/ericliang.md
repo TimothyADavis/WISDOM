@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eric-liang.jpg" alt=""></a>
 </figure>
 
-<b>WISDOM student</b><br>
+<b>WISDOM STUDENT</b><br>
 <i>Current Position:</i> PhD student, University of Oxford<br>
 <!--more-->
 <br>

@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ilaria_ruffa.jpeg" alt=""></a>
 </figure>
 
-<b>WISDOM Postdoc</b><br>
+<b>WISDOM MEMBER</b><br>
 <i>Current Position:</i> Postdoctoral Research Assistant, Cardiff Hub for Astrophysics Research and Technology, School of Physics and Astronomy, Cardiff University<br>
 <!--more-->
 <br>

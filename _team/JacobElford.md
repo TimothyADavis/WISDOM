@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/JacobElford.jpg" alt=""></a>
 </figure>
 
-<b>WISDOM Student</b><br>
+<b>WISDOM STUDENT</b><br>
 <i>Current Position:</i> PhD Student, Cardiff Hub for Astrophysics Research and Technology, School of Physics and Astronomy, Cardiff University<br>
 <!--more-->
 <br>

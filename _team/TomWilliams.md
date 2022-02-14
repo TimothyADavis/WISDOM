@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WilliamsT_crop.jpg" alt=""></a>
 </figure>
 <br>
-<b>WISDOM member</b><br>
+<b>WISDOM MEMBER</b><br>
 <i>Current Position:</i> Postdoctoral Researcher, MPIA, Germany<br>
 <!--more-->
 <br>

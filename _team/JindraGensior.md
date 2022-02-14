@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Jindra-Gensior.jpg" alt=""></a>
 </figure>
 
-<b>WISDOM member</b><br>
+<b>WISDOM MEMBER</b><br>
 <i>Current Position:</i> Postdoctoral Researcher, Institute for Computational Science, University of Zurich, Switzerland<br>
 <!--more-->
 <br>
