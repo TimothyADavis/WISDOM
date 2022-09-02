@@ -14,7 +14,7 @@ KinMS_fitter takes the power of the KinMS base class, and simplifies and automat
 <br>
 <!--more-->
 
-Further information, tutorials and full installation instructions can be found at <a href="https://github.com/TimothyADavis/KinMS_fitter">https://github.com/TimothyADavis/KinMS_fitter</a>.
+Further information, tutorials and full installation instructions can be found at the <a href="https://kinms.space">KinMS webpage</a>.
 
 <a href="{{ site.url }}{{ site.baseurl }}/codes/">(Back to Code)</a>
 	
