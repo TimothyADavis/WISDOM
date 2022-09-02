@@ -9,7 +9,8 @@ image: /assets/images/WISDOMbanner_thin.png
 
 
 The KINematic Molecular Simulation) package can be used to kinematically model observations of arbitary molecular/atomic cold gas distributions. These are the lower-level routines that power <a href="{{ site.url }}{{ site.baseurl }}/codes/KinMS_fitter">KinMS_fitter</a>.<br>
-[![Python 3.6](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-382/) [![PyPI version](https://badge.fury.io/py/kinms.svg)](https://badge.fury.io/py/kinms) 
+
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-382/) [![PyPI version](https://badge.fury.io/py/kinms.svg)](https://badge.fury.io/py/kinms) 
 [![ASCL](https://img.shields.io/badge/ascl-2006.003-blue.svg?colorB=262255)](http://ascl.net/2006.003) [![GitHub](https://img.shields.io/badge/github-view%20repo-red)](https://github.com/TimothyADavis/KinMSpy)<br>
 <!--more-->
 
